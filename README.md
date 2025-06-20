@@ -1,5 +1,4 @@
-# P-gina-de-reciclar-en-casa
-<
+
 <!DOCTYPE html>
 <html lang="es">
 <head>
